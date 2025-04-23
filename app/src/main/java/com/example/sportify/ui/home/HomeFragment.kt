@@ -95,7 +95,8 @@ class HomeFragment : Fragment() {
             // Pobierz czas z chronometru i zapisz w ViewModel
             val time = binding.chronometer.text.toString()
             homeViewModel.addTime(time)
-            Toast.makeText(requireContext(), "Zapisano czas: $time", Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(), "Zapisano aktywność" +
+                    ": $time", Toast.LENGTH_SHORT).show()
 
             // Resetuj stoper i przyciski
             binding.chronometer.stop()
