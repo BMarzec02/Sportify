@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sportify</string>
+    <string name="welcome_message">Witamy w Sportify</string>
+    <string name="title_home">Trening</string>
+    <string name="title_dashboard">Aktywności</string>
+    <string name="title_statistics">Statystyki</string>
+    <string name="transport_bike">Rower</string>
+    <string name="transport_running">Bieganie</string>
+    <string name="transport_other">Inne</string>
+    <string name="stats_activity_count">Liczba aktywności</string>
+    <string name="stats_total_time">Łączny czas</string>
+    <string name="stats_total_distance">Łączny dystans</string>
+    <string name="activity_time">Czas</string>
+    <string name="activity_distance">Dystans</string>
+    <string name="activity_avg_speed">Średnia prędkość</string>
+    <string name="your_stats">Twoje statystyki</string>
+</resources>
+
